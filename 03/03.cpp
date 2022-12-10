@@ -12,6 +12,7 @@
 #include "Rhomb.h"
 #include "PrintFigure.h"
 
+//Задача 3. Иерархия классов
 int main()
 {
 	setlocale(LC_ALL, "Russian"); //Корректное отображение Кириллицы
