@@ -1,4 +1,5 @@
 ﻿#include <iostream>
+#include <cstring>
 #include "MathFunction.h"
 
 //Задача 1. Математические функции
