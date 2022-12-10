@@ -1,6 +1,7 @@
 ﻿#include <iostream>
 #include "MathFunction.h"
 
+//Задача 1. Математические функции
 int main()
 {
     setlocale(LC_ALL, "Russian"); //Корректное отображение Кириллицы
