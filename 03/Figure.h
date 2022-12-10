@@ -30,4 +30,3 @@ public:
 	int getAngleC();
 	int getAngleD();
 };
-

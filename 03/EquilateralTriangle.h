@@ -6,4 +6,3 @@ class EquilateralTriangle :
 public:
     EquilateralTriangle(int sideLengthA);
 };
-

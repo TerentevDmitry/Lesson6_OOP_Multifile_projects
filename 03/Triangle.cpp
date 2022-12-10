@@ -1,7 +1,6 @@
 #include "Triangle.h"
 #include "Figure.h"
 
-
 Triangle::Triangle(int sideLengthA, int sideLengthB, int sideLengthC, int angleA, int angleB, int angleC)
 {
 	nameOfFigure_ = "Треугольник";
@@ -12,5 +11,3 @@ Triangle::Triangle(int sideLengthA, int sideLengthB, int sideLengthC, int angleA
 	angleB_ = angleB;
 	angleC_ = angleC;
 }
-
-

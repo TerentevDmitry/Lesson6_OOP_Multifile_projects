@@ -1,6 +1,5 @@
 #include "Quadrilateral.h"
 
-
 Quadrilateral::Quadrilateral(int sideLengthA, int sideLengthB, int sideLengthC, int sideLengthD, int angleA, int angleB, int angleC, int angleD)
 {
 	nameOfFigure_ = "Четырехугольник";
@@ -17,4 +16,3 @@ Quadrilateral::Quadrilateral(int sideLengthA, int sideLengthB, int sideLengthC, 
 	angleC_ = angleC;
 	angleD_ = angleD;
 };
-

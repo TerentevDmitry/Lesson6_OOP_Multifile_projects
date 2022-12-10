@@ -9,4 +9,3 @@ public:
 			 int angleA, int angleB, int angleC);
 
 };
-
