@@ -72,27 +72,22 @@ int main()
     
     if (operationSelection == 1)
     {
-        MathFunc addition1;
-        std::cout << addition1.addition(firstNumber, secondNumber);
+        std::cout << addition(firstNumber, secondNumber);
     }
     else if (operationSelection == 2)
     {
-        MathFunc subtraction1;
-        std::cout << subtraction1.subtraction(firstNumber, secondNumber);
+        std::cout << subtraction(firstNumber, secondNumber);
     }
     else if (operationSelection == 3)
     {
-        MathFunc multiplication1;
-        std::cout << multiplication1.multiplication(firstNumber, secondNumber);
+        std::cout << multiplication(firstNumber, secondNumber);
     }
     else if (operationSelection == 4)
     {
-        MathFunc division1;
-        std::cout << division1.division(firstNumber, secondNumber);
+        std::cout << division(firstNumber, secondNumber);
     }
     else
     {
-        MathFunc exponentiation1;
-        std::cout << exponentiation1.exponentiation(firstNumber, secondNumber);
+        std::cout << exponentiation(firstNumber, secondNumber);
     };
 };
