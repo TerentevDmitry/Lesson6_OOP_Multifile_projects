@@ -1,5 +1,6 @@
 #include "Counter.h"
 
+
 Counter::Counter(int initialInitValue) //Конструктор
 {
     counterResult_ = initialInitValue;

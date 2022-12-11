@@ -1,5 +1,6 @@
 #pragma once
 
+
 class Counter //Класс Counter счетчик с методами
 {
 private:
