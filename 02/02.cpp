@@ -1,7 +1,7 @@
 ﻿#include <iostream>
 #include <cstring>
 
-//Задача 2. Счётчик
+//Задача 2. Класс
 
 class Counter //Класс Counter счетчик с методами
 {
