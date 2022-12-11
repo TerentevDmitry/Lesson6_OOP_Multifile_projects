@@ -1,7 +1,7 @@
 #include "PrintFigure.h"
 #include <iostream>
 
-void PrintFigure::printFigure(Figure* figure)
+void printFigure(Figure* figure)
 {
 	std::cout << std::endl;
 	std::cout << figure->getNameOfFigure() << ":" << std::endl;
